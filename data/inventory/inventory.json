@@ -1,0 +1,48 @@
+[
+  {
+    "product_id": "P001",
+    "name": "Wireless Mouse",
+    "stock": 50,
+    "price": 25.99,
+    "rating": 4.5,
+    "category": "Peripherals",
+    "alternatives": ["P004"]
+  },
+  {
+    "product_id": "P002",
+    "name": "Mechanical Keyboard",
+    "stock": 0,
+    "price": 89.99,
+    "rating": 4.8,
+    "category": "Peripherals",
+    "alternatives": ["P005"],
+    "restock_date": "2026-07-15"
+  },
+  {
+    "product_id": "P003",
+    "name": "PlayStation Controller",
+    "stock": 10,
+    "price": 69.99,
+    "rating": 4.7,
+    "category": "Gaming",
+    "alternatives": ["P006"]
+  },
+  {
+    "product_id": "P004",
+    "name": "Bluetooth Mouse",
+    "stock": 20,
+    "price": 29.99,
+    "rating": 4.2,
+    "category": "Peripherals",
+    "alternatives": ["P001"]
+  },
+  {
+    "product_id": "P005",
+    "name": "Gaming Keyboard",
+    "stock": 15,
+    "price": 75.00,
+    "rating": 4.4,
+    "category": "Peripherals",
+    "alternatives": ["P002"]
+  }
+]

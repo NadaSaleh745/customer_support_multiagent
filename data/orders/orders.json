@@ -1,0 +1,26 @@
+[
+  {
+    "order_id": 421,
+    "customer_id": 101,
+    "items": [{"product_id": "P001", "name": "Wireless Mouse", "price": 25.99}],
+    "status": "Shipped",
+    "order_date": "2026-06-25",
+    "shipping_address": "123 Maple St, Springfield"
+  },
+  {
+    "order_id": 422,
+    "customer_id": 102,
+    "items": [{"product_id": "P002", "name": "Mechanical Keyboard", "price": 89.99}],
+    "status": "Delivered",
+    "order_date": "2026-06-20",
+    "shipping_address": "456 Oak Ave, Metropolis"
+  },
+  {
+    "order_id": 432,
+    "customer_id": 105,
+    "items": [{"product_id": "P002", "name": "Mechanical Keyboard", "price": 89.99}],
+    "status": "Processing",
+    "order_date": "2026-06-28",
+    "shipping_address": "789 Pine Rd, Gotham"
+  }
+]

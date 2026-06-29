@@ -1,0 +1,25 @@
+[
+  {
+    "order_id": 421,
+    "tracking_number": "TRK123456789",
+    "carrier": "FedEx",
+    "status": "Out for delivery",
+    "estimated_delivery": "2026-06-30",
+    "events": [
+      {"time": "2026-06-25 10:00", "location": "Warehouse", "event": "Order Picked"},
+      {"time": "2026-06-26 14:00", "location": "Distribution Center", "event": "Arrived at Facility"},
+      {"time": "2026-06-29 08:00", "location": "Local Depot", "event": "Out for delivery"}
+    ]
+  },
+  {
+    "order_id": 422,
+    "tracking_number": "TRK987654321",
+    "carrier": "UPS",
+    "status": "Delivered",
+    "estimated_delivery": "2026-06-20",
+    "events": [
+      {"time": "2026-06-18 09:00", "location": "Warehouse", "event": "Order Picked"},
+      {"time": "2026-06-20 15:30", "location": "Front Door", "event": "Delivered"}
+    ]
+  }
+]
